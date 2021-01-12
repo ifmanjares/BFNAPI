@@ -1,0 +1,244 @@
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\BFNApi.dll.config
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\BFNApi.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\BFNApi.pdb
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\csc.exe
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\csc.exe.config
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\csc.rsp
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\csi.exe
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\csi.rsp
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.AppContext.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\vbc.exe
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\vbc.exe.config
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\vbc.rsp
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Antlr3.Runtime.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Newtonsoft.Json.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Net.Http.Formatting.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Helpers.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Http.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Http.WebHost.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Mvc.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Optimization.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Razor.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\WebGrease.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Net.Http.Formatting.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Http.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Http.WebHost.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Helpers.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Mvc.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Optimization.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.Razor.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Newtonsoft.Json.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Antlr3.Runtime.pdb
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\obj\Debug\BFNApi.csprojAssemblyReference.cache
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\obj\Debug\BFNApi.csproj.CoreCompileInputs.cache
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\obj\Debug\BFNApi.csproj.CopyComplete
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\obj\Debug\BFNApi.dll
+C:\Users\imanjares\source\repos\BFNApi\BFNApi\obj\Debug\BFNApi.pdb
+E:\BFNApi\BFNApi\BFNApi\bin\BFNApi.dll.config
+E:\BFNApi\BFNApi\BFNApi\bin\BFNApi.dll
+E:\BFNApi\BFNApi\BFNApi\bin\BFNApi.pdb
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\csc.exe
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\csc.exe.config
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\csc.rsp
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\csi.exe
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\csi.rsp
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.AppContext.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.Collections.Immutable.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\vbc.exe
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\vbc.exe.config
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\vbc.rsp
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe
+E:\BFNApi\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe.config
+E:\BFNApi\BFNApi\BFNApi\bin\Antlr3.Runtime.dll
+E:\BFNApi\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BFNApi\BFNApi\BFNApi\bin\Microsoft.Web.Infrastructure.dll
+E:\BFNApi\BFNApi\BFNApi\bin\Newtonsoft.Json.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Net.Http.Formatting.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Helpers.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Http.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Http.WebHost.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Mvc.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Optimization.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Razor.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.dll
+E:\BFNApi\BFNApi\BFNApi\bin\WebGrease.dll
+E:\BFNApi\BFNApi\BFNApi\bin\System.Net.Http.Formatting.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Http.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Http.WebHost.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Helpers.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Mvc.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Optimization.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.Razor.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.xml
+E:\BFNApi\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.xml
+E:\BFNApi\BFNApi\BFNApi\bin\Newtonsoft.Json.xml
+E:\BFNApi\BFNApi\BFNApi\bin\Antlr3.Runtime.pdb
+E:\BFNApi\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BFNApi\BFNApi\BFNApi\obj\Debug\BFNApi.csprojResolveAssemblyReference.cache
+E:\BFNApi\BFNApi\BFNApi\obj\Debug\BFNApi.dll
+E:\BFNApi\BFNApi\BFNApi\obj\Debug\BFNApi.pdb
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.dll.config
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.pdb
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.exe
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.exe.config
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.rsp
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csi.exe
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csi.rsp
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.AppContext.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.exe
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.exe.config
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.rsp
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Antlr3.Runtime.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Newtonsoft.Json.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Helpers.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Mvc.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Optimization.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Razor.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\WebGrease.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Helpers.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Mvc.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Optimization.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Razor.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Newtonsoft.Json.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Antlr3.Runtime.pdb
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.csprojResolveAssemblyReference.cache
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.dll
+C:\Users\Global Quest 05\Downloads\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.pdb
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.dll.config
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\BFNApi.pdb
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.exe
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.exe.config
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csc.rsp
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csi.exe
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\csi.rsp
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.AppContext.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.exe
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.exe.config
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\vbc.rsp
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Antlr3.Runtime.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Newtonsoft.Json.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Net.Http.Formatting.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Helpers.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.WebHost.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Mvc.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Optimization.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Razor.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\WebGrease.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Net.Http.Formatting.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Http.WebHost.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Helpers.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Mvc.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Optimization.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.Razor.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Newtonsoft.Json.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Antlr3.Runtime.pdb
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.csprojAssemblyReference.cache
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.csproj.CoreCompileInputs.cache
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.csproj.CopyComplete
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.dll
+C:\Users\imanjares\source\repos\BFNApi (2)\BFNApi\BFNApi\obj\Debug\BFNApi.pdb
